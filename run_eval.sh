@@ -1,0 +1,1 @@
+bash run_all.sh 0.1 0.1 0 --mode eval

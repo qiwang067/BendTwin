@@ -1,0 +1,1 @@
+ python visualize_render_results.py  --surface_sample_ratio 0.3 --scenes double_stretch_sloth 

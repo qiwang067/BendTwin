@@ -1,0 +1,1 @@
+python /code/phystwinv2_explicit/cleanup_nonbest_outputs.py --delete

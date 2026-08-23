@@ -1,0 +1,1 @@
+python script_train.py --surface_sample_ratio $1 --obj_sample_ratio ${2:-1.0}

@@ -1,0 +1,1 @@
+python visualize_bending_stiffness.py --case_name double_lift_sloth --surface_sample_ratio 1.0 --obj_sample_ratio 0.6 --log_scale
