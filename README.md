@@ -6,6 +6,10 @@
   Yixiong Jing · Qi Wang · Lin Chen · Junwei Jiang · Guangming Wang · Haibing Wu · Olaf Wysocki · Wanli Ma · Brian Sheil
 </p>
 
+<h3 align="center">
+  <a href="https://arxiv.org/pdf/2608.06164" target="_blank"> arXiv </a>
+</h3>
+
 <p align="center">
   <a href="#quick-start"><b>⚡ Quick Start</b></a> |
   <a href="#training-and-inference"><b>🏋️ Training</b></a> |
