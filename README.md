@@ -2,9 +2,9 @@
   <i>BendTwin: Robust Dense-to-Sparse Physical Reconstruction with Bending-Aware Differentiable Spring-Mass Models</i>
 </h1>
 
-<p align="center">
-  <b>NeurIPS 2026 Workshop Oral</b>
-</p>
+<h2 align="center">
+  NeurIPS 2026 Workshop <i>Oral</i>
+</h2>
 
 <p align="center">
   Yixiong Jing · Qi Wang · Lin Chen · Junwei Jiang · Guangming Wang · Haibing Wu · Olaf Wysocki · Wanli Ma · Brian Sheil
