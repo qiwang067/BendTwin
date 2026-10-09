@@ -7,7 +7,26 @@
 </h2>
 
 <p align="center">
-  Yixiong Jing · Qi Wang · Lin Chen · Junwei Jiang · Guangming Wang · Haibing Wu · Olaf Wysocki · Wanli Ma · Brian Sheil
+  <span class="author-block"><a target="_blank" href="https://cv4dt.github.io/author/dr-yixiong-jing/">Yixiong Jing</a><sup>1,*</sup>,</span>
+  <span class="author-block"><a target="_blank" href="https://qiwang067.github.io/">Qi Wang</a><sup>2,*</sup>,</span>
+  <span class="author-block">Lin Chen<sup>3</sup>,</span>
+  <span class="author-block">Junwei Jiang<sup>4</sup>,</span>
+  <span class="author-block"><a target="_blank" href="https://guangmingw.github.io/">Guangming Wang</a><sup>1,†</sup>,</span>
+  <span class="author-block">Haibing Wu<sup>1</sup>,</span>
+  <span class="author-block"><a target="_blank" href="https://olafwysocki.github.io/">Olaf Wysocki</a><sup>1</sup>,</span>
+  <span class="author-block">Wanli Ma<sup>1</sup>,</span>
+  <span class="author-block"><a target="_blank" href="https://www.construction.cam.ac.uk/staff/dr-brian-sheil">Brian Sheil</a><sup>1</sup></span>
+</p>
+
+<div align="center">
+  <sup>1</sup>University of Cambridge,
+  <sup>2</sup>Institute of Automation, Chinese Academy of Sciences,<br>
+  <sup>3</sup>Northwestern Polytechnical University,
+  <sup>4</sup>The Hong Kong Polytechnic University
+</div>
+
+<p align="center">
+  <sup>*</sup>Equal contribution &nbsp;·&nbsp; <sup>†</sup>Corresponding author
 </p>
 
 <p align="center">
