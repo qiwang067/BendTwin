@@ -1,9 +1,9 @@
 <h1 align="center">
-  <i>BendTwin: Robust Dense-to-Sparse Physical Reconstruction with Bending-Aware Differentiable Spring-Mass Models</i>
+  🌀 <i>BendTwin: Robust Dense-to-Sparse Physical Reconstruction with Bending-Aware Differentiable Spring-Mass Models</i>
 </h1>
 
 <h2 align="center">
-  NeurIPS 2026 Workshop <i>Oral</i>
+  🎤 NeurIPS 2026 Workshop <i>Oral</i>
 </h2>
 
 <p align="center">
@@ -18,9 +18,9 @@
 <p align="center">
   <a href="https://qiwang067.github.io/bendtwin"><b>🌐 Website</b></a> ·
   <a href="https://arxiv.org/pdf/2608.06164"><b>📑 arXiv</b></a> ·
-  <a href="#quick-start"><b>⚡ Quick Start</b></a> ·
-  <a href="#training-and-inference"><b>🏋️ Training</b></a> ·
-  <a href="#evaluation"><b>📊 Evaluation</b></a> 
+  <a href="#-quick-start"><b>⚡ Quick Start</b></a> ·
+  <a href="#-training-and-inference"><b>🏋️ Training</b></a> ·
+  <a href="#-evaluation"><b>📊 Evaluation</b></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Reconstructing objects with mechanical properties from video observations enable
 
 
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 bendtwin/
@@ -53,9 +53,9 @@ bendtwin/
 └── interactive_playground.py        # Interactive simulation and rendering
 ```
 
-## Quick Start
+## ⚡ Quick Start
 
-### Requirements
+### 🔧 Requirements
 
 The code is designed for Linux with an NVIDIA GPU. The provided setup uses Python 3.10 and CUDA 12.x.
 
@@ -82,14 +82,14 @@ bash ./env_install/download_pretrained_models.sh
 ```
 
 
-### Dataset
+### 📦 Dataset
 
 Download the dataset:
 - [data](https://huggingface.co/datasets/Jianghanxiao/PhysTwin/resolve/main/data.zip): this includes the original data for different cases and the processed data for quick run. The different case_name can be found under `different_types` folder.
 
-## Training and Inference
+## 🏋️ Training and Inference
 
-### End-to-End Pipeline
+### 🚀 End-to-End Pipeline
 
 `run_all.sh` is the main launcher. Its first three positional arguments are the surface sampling ratio, object sampling ratio, and GPU index:
 
@@ -105,7 +105,7 @@ bash run_all.sh 1.0 1.0 0 --mode eval <scene_name>
 ```
 
 
-### Run Stages Separately
+### 🛠️ Run Stages Separately
 
 ```bash
 # Stage 1: zero-order parameter initialization.
@@ -133,7 +133,7 @@ python script_inference.py \
 bash gs_run.sh
 ```
 
-## Evaluation
+## 📊 Evaluation
 
 Render reconstructed dynamics from the original viewpoints and compute quantitative metrics:
 
@@ -148,10 +148,10 @@ python visualize_render_results.py
 ```
 
 
-## Credits
+## 🙏 Credits
 
 The codes refer to the implemention of [PhysTwin](https://github.com/jianghanxiao/phystwin). Thanks for the authors!
 
-## License
+## 📄 License
 
 See [LICENSE](./LICENSE) for details.
