@@ -10,14 +10,16 @@
   Yixiong Jing · Qi Wang · Lin Chen · Junwei Jiang · Guangming Wang · Haibing Wu · Olaf Wysocki · Wanli Ma · Brian Sheil
 </p>
 
-<h3 align="center">
-  <a href="https://arxiv.org/pdf/2608.06164" target="_blank"> arXiv </a> |
-  <a href="https://qiwang067.github.io/bendtwin" target="_blank"> Website </a>
-</h3>
+<p align="center">
+  <a href="https://qiwang067.github.io/bendtwin"><img src="https://img.shields.io/badge/Project-Page-007BFF?logo=googlechrome&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://arxiv.org/pdf/2608.06164"><img src="https://img.shields.io/badge/arXiv-2608.06164-b31b1b.svg?logo=arxiv&amp;logoColor=white" alt="arXiv" /></a>
+</p>
 
 <p align="center">
-  <a href="#quick-start"><b>⚡ Quick Start</b></a> |
-  <a href="#training-and-inference"><b>🏋️ Training</b></a> |
+  <a href="https://qiwang067.github.io/bendtwin"><b>🌐 Website</b></a> ·
+  <a href="https://arxiv.org/pdf/2608.06164"><b>📑 arXiv</b></a> ·
+  <a href="#quick-start"><b>⚡ Quick Start</b></a> ·
+  <a href="#training-and-inference"><b>🏋️ Training</b></a> ·
   <a href="#evaluation"><b>📊 Evaluation</b></a> 
 </p>
 
