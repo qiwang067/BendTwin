@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <b>NeurIPS 2026 Workshop Oral</b>
+</p>
+
+<p align="center">
   Yixiong Jing · Qi Wang · Lin Chen · Junwei Jiang · Guangming Wang · Haibing Wu · Olaf Wysocki · Wanli Ma · Brian Sheil
 </p>
 
