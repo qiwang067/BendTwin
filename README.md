@@ -11,7 +11,8 @@
 </p>
 
 <h3 align="center">
-  <a href="https://arxiv.org/pdf/2608.06164" target="_blank"> arXiv </a>
+  <a href="https://arxiv.org/pdf/2608.06164" target="_blank"> arXiv </a> |
+  <a href="https://qiwang067.github.io/bendtwin" target="_blank"> Website </a>
 </h3>
 
 <p align="center">
